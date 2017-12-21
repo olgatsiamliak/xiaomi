@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23.44" height="24.281" viewBox="0 0 23.44 24.281">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #614261;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1293.94" y="87" width="23.44" height="24.281" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#a9a9a9"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Magnifying_Glass" data-name="Magnifying Glass" class="cls-1" d="M1307,103.9a11.3,11.3,0,0,1-4.23,1.289c-4.99,0-8.83-4.515-8.83-9.5a8.585,8.585,0,0,1,8.83-8.7c4.98,0,9.49,3.717,9.49,8.7a10.289,10.289,0,0,1-2.21,5.734l7,6.569a1.041,1.041,0,0,1,0,1.492l-1.49,1.492a1.054,1.054,0,0,1-1.49,0Zm-3.85-13.974a6.114,6.114,0,1,1-6.11,6.114A6.117,6.117,0,0,1,1303.15,89.921Z" transform="translate(-1293.94 -87)"/>
+</svg>
